@@ -1,0 +1,15 @@
+# Frontend (Angular)
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.idea/
+frontend/.vscode/
+
+# Backend (Spring Boot)
+backend/target/
+backend/.idea/
+backend/.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
